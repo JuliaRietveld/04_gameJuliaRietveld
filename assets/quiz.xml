@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <item>
+  <question>Who wrote the novel Revolutionary Road, which was made into a successful feature film?</question>
+  	<answers>1</answers>
+  		<choice>Richard Yates</choice>
+  		<choice>Leonardo di Caprio</choice>
+  		<choice>John Bates</choice>
+  		<choice>Anna Fridman</choice>
+ </item>
+ <item>
+  <question>In Gullivers Travels, what is the name of the flying island?</question>
+  	<answers>1</answers>
+  		<choice>Laputa</choice>
+  		<choice>Liputa</choice>
+  		<choice>Litapa</choice>
+  		<choice>Lupita</choice>
+ </item>
+ <item>
+  <question>How old is Juliet when she dies in Shakespeare's Romeo and Juliett? </question>
+  	<answers>1</answers>
+  		<choice>13 years of age</choice>
+  		<choice>14 years of age</choice>
+  		<choice>15 years of age</choice>
+  		<choice>16 years of age</choice>
+ </item>
+ <item>
+  <question>Thomas Hardy`s heart is buried in his native Dorset, but where in London is his body buried? </question>
+  	<answers>1</answers>
+  		<choice>Poet`s Corner</choice>
+  		<choice>Buckingam Palace</choice>
+  		<choice>Pale Royal</choice>
+  		<choice>Kingsington</choice>
+ </item>
+ <item>
+  <question>Who wrote the Waverley novels?</question>
+  	<answers>1</answers>
+  		<choice>Sir Walter Scott</choice>
+  		<choice>Thomas Hardy</choice>
+  		<choice>Theodor Draiser</choice>
+  		<choice>Jack Russel</choice>
+ </item>
+ <item>
+  <question>Which organ of the body is affected by Bright's Disease?</question>
+  	<answers>1</answers>
+  		<choice>Kidney</choice>
+  		<choice>Hart</choice>
+  		<choice>Mussels</choice>
+  		<choice>Eyes</choice>
+ </item>
+ <item>
+  <question>What is the boiling point of water using the scientific Kelvin scale of temperature measurement?</question>
+  	<answers>1</answers>
+  		<choice>373k - kelvins</choice>
+  		<choice>100k</choice>
+  		<choice>265k</choice>
+  		<choice>180k</choice>
+ </item>
+ <item>
+  <question>What is the lightest metal under standard conditions?</question>
+  	<answers>1</answers>
+  		<choice>Lithium</choice>
+  		<choice>Plastic</choice>
+  		<choice>Helium</choice>
+  		<choice>Aluninium</choice>
+ </item>
+ <item>
+  <question>How many surfaces does a Mobius strip have?</question>
+  	<answers>1</answers>
+  		<choice>One</choice>
+  		<choice>Two</choice>
+  		<choice>Tree</choice>
+  		<choice>Four</choice>
+ </item>
+ <item>
+  <question>What is the collective noun for a group of moles? </question>
+  	<answers>1</answers>
+  		<choice>A labour</choice>
+  		<choice>A colony</choice>
+  		<choice>A herd</choice>
+  		<choice>An army</choice>
+ </item>
+ <item>
+  <question>How many emirates make up the United Arab Emirates?</question>
+  	<answers>1</answers>
+  		<choice>7</choice>
+  		<choice>8</choice>
+  		<choice>9</choice>
+  		<choice>10</choice>
+ </item>
+ <item>
+  <question>Known as the Rio Grande in the USA, what is it called in Mexico?</question>
+  	<answers>1</answers>
+  		<choice>Rio Bravo</choice>
+  		<choice>Rio Grande</choice>
+  		<choice>Amazon</choice>
+  		<choice>Nile</choice>
+ </item>
+ <item>
+  <question>Kosciusko is the highest mountain in which country?</question>
+  	<answers>1</answers>
+  		<choice>Australia</choice>
+  		<choice>New Zeeland</choice>
+  		<choice>China</choice>
+  		<choice>Laos</choice>
+ </item>
+ <item>
+  <question>A country historically known as Abyssinia, what is the modern name for it?</question>
+  	<answers>1</answers>
+  		<choice>Ethiopia</choice>
+  		<choice>Lybia</choice>
+  		<choice>Yordan</choice>
+  		<choice>Tunis</choice>
+ </item>
+ <item>
+  <question>Which South American country was named after the Italian city of Venice?</question>
+  	<answers>1</answers>
+  		<choice>Venezuela</choice>
+  		<choice>Venda</choice>
+  		<choice>Vanuatu</choice>
+  		<choice>Vietnam</choice>
+ </item>
+ <item>
+  <question>What was the 1st human invention that broke the sound barrier?</question>
+  	<answers>1</answers>
+  		<choice>The whip</choice>
+  		<choice>The music</choice>
+  		<choice>The laser</choice>
+  		<choice>Tha glass</choice>
+ </item>
+ <item>
+  <question>Which King of England was crowned on Christmas Day?</question>
+  	<answers>1</answers>
+  		<choice>William I</choice>
+  		<choice>William II</choice>
+  		<choice>William III</choice>
+  		<choice>William IV</choice>
+ </item>
+<item>
+  <question>What was the name of the rocket used by Yuri Gagarin for the first manned space flight?</question>
+  	<answers>1</answers>
+  		<choice>Vostok 1</choice>
+  		<choice>Laika</choice>
+  		<choice>Volga</choice>
+  		<choice>Moskva</choice>
+ </item>
+ <item>
+  <question>Who overthrew King Idris in 1969?</question>
+  	<answers>1</answers>
+  		<choice>Colonel Gaddafi</choice>
+  		<choice>Maria Stuart</choice>
+  		<choice>Gandi</choice>
+  		<choice>Sir Lawrens Bell</choice>
+ </item>
+ <item>
+  <question>Who was known as the Maid of Orleans?</question>
+  	<answers>1</answers>
+  		<choice>Joan of Arc</choice>
+  		<choice>Mata Hari</choice>
+  		<choice>Queen Elizabeth</choice>
+  		<choice>Helen of Troya</choice>
+ </item>
+</data>
